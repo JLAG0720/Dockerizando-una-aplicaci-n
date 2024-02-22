@@ -4,4 +4,6 @@ WORKDIR /app
 
 COPY Angulos_Triangulo.jar /app/Angulos_Triangulo.jar
 
+RUN javac Angulos_Triangulo.java
+
 CMD ["java", "-jar", ".jar"]
