@@ -1,11 +1,7 @@
-# Usa una imagen base de Java
 FROM openjdk:11-jre-slim
 
-# Establece el directorio de trabajo dentro del contenedor
 WORKDIR /app
 
-# Copia el archivo JAR de tu aplicación al contenedor
 COPY Angulos_Triangulo.jar /app/Angulos_Triangulo.jar
 
-# Comando para ejecutar la aplicación Java
 CMD ["java", "-jar", ".jar"]
