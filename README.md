@@ -19,8 +19,6 @@ Este codigo en javascript crea un servidor en node.js que simplemente dice "Hola
 (https://visualstudio.microsoft.com/es/downloads/)
 ```
 * Una vez ya instalado Microsoft Visual Studio abre un nuevo proyecto, en caso de no tener Javascript en Visual Studio dirigete a Visual Studio Installer y descarga "Desarrollo de Node.js"
-## Ejecución de las pruebas
-
 
 ### Desglosar las pruebas de extremo a extremo
 
@@ -41,7 +39,6 @@ Servidor: Hola Mundo
 
 * [Microsoft Visual Studio 2019](https://netbeans.apache.org/front/main/index.html) - Programa utilizado
 * [Node.js 20.11.1 LTS](https://nodejs.org/en) - Programa utilizado
-
 
 ## Autor
 
